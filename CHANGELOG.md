@@ -1,4 +1,11 @@
 # 2014-05-04 [**diffsky/scratch-github**](https://github.com/diffsky/scratch-github)
+3 commits against 1 issues, over a few seconds [`eef3730`](https://github.com/diffsky/scratch-github/commit/eef3730)⎆[`cb09f49`](https://github.com/diffsky/scratch-github/commit/cb09f49)
+
+## [**logging**](https://github.com/diffsky/scratch-github/issues?milestone=1&state=open)
+- [**#2**](https://github.com/diffsky/scratch-github/issues/2) something about blah
+
+
+# 2014-05-04 [**diffsky/scratch-github**](https://github.com/diffsky/scratch-github)
 1 commits against 1 issues, over a few seconds [`9168fbb`](https://github.com/diffsky/scratch-github/commit/9168fbb)⎆[`9168fbb`](https://github.com/diffsky/scratch-github/commit/9168fbb)
 
 ## Issues 
