@@ -7,10 +7,9 @@
 ## [**logging**](https://github.com/diffsky/scratch-github/issues?milestone=1&state=open)
 - [**#2**](https://github.com/diffsky/scratch-github/issues/2) something about blah
 
-### Issues 
+### Issues
 - [**#4**](https://github.com/diffsky/scratch-github/issues/4) fooz
 - [**#3**](https://github.com/diffsky/scratch-github/issues/3) add cogitators
 - [**#1**](https://github.com/diffsky/scratch-github/issues/1) sample
+
 ---
-
-
