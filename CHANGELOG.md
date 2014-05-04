@@ -1,26 +1,16 @@
-# 2014-05-04 [**diffsky/scratch-github**](https://github.com/diffsky/scratch-github)
-3 commits against 1 issues, over a few seconds [`eef3730`](https://github.com/diffsky/scratch-github/commit/eef3730)⎆[`cb09f49`](https://github.com/diffsky/scratch-github/commit/cb09f49)
+# diffsky/scratch-github
 
-## [**logging**](https://github.com/diffsky/scratch-github/issues?milestone=1&state=open)
-- [**#2**](https://github.com/diffsky/scratch-github/issues/2) something about blah
+## 2014-05-04
+35 commits against 5 issues, over 3 years [`934a574`](https://github.com/diffsky/scratch-github/commit/934a574)⎆[`a7c806b`](https://github.com/diffsky/scratch-github/commit/a7c806b)
 
-
-# 2014-05-04 [**diffsky/scratch-github**](https://github.com/diffsky/scratch-github)
-1 commits against 1 issues, over a few seconds [`9168fbb`](https://github.com/diffsky/scratch-github/commit/9168fbb)⎆[`9168fbb`](https://github.com/diffsky/scratch-github/commit/9168fbb)
-
-## Issues 
-- [**#4**](https://github.com/diffsky/scratch-github/issues/4) fooz  
-
-# 2014-05-04 [**diffsky/scratch-github**](https://github.com/diffsky/scratch-github)
-30 commits against 5 issues, over 3 years [`5627122`](https://github.com/diffsky/scratch-github/commit/5627122)⎆[`a7c806b`](https://github.com/diffsky/scratch-github/commit/a7c806b)
-
-## [**grouping**](https://github.com/diffsky/scratch-github/issues?milestone=2&state=open)
+### [**grouping**](https://github.com/diffsky/scratch-github/issues?milestone=2&state=open)
 - [**#5**](https://github.com/diffsky/scratch-github/issues/5) debugging
 
-## [**logging**](https://github.com/diffsky/scratch-github/issues?milestone=1&state=open)
+### [**logging**](https://github.com/diffsky/scratch-github/issues?milestone=1&state=open)
 - [**#2**](https://github.com/diffsky/scratch-github/issues/2) something about blah
 
-## Issues
-- [**#4**](https://github.com/diffsky/scratch-github/issues/4) fooz
-- [**#3**](https://github.com/diffsky/scratch-github/issues/3) add cogitators
-- [**#1**](https://github.com/diffsky/scratch-github/issues/1) sample
+### Issues 
+- [**#4**](https://github.com/diffsky/scratch-github/issues/4) fooz  
+- [**#3**](https://github.com/diffsky/scratch-github/issues/3) add cogitators  
+- [**#1**](https://github.com/diffsky/scratch-github/issues/1) sample  
+
