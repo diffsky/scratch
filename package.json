@@ -2,6 +2,7 @@
   "name": "scratch-github",
   "version": "0.0.0",
   "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
     "precommit": "echo 'precommit'",
     "prepush": "echo 'prepush'"
   },
@@ -11,9 +12,6 @@
     "doc": "docs",
     "example": "example",
     "test": "test"
-  },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
