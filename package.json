@@ -1,0 +1,31 @@
+{
+  "name": "scratch-github",
+  "version": "0.0.0",
+  "scripts": {
+    "precommit": "echo 'precommit'",
+    "prepush": "echo 'prepush'"
+  },
+  "description": "scratch-github ==============",
+  "main": "test.this.js",
+  "directories": {
+    "doc": "docs",
+    "example": "example",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/diffsky/scratch-github.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/diffsky/scratch-github/issues"
+  },
+  "homepage": "https://github.com/diffsky/scratch-github",
+  "devDependencies": {
+    "husky": "^0.4.3"
+  }
+}
