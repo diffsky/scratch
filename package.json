@@ -1,29 +1,19 @@
 {
-  "name": "scratch-github",
+  "name": "scratch",
   "version": "0.0.0",
+  "description": "scratch - just for testing",
+  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "precommit": "echo 'precommit'",
-    "prepush": "echo 'prepush'"
-  },
-  "description": "scratch-github ==============",
-  "main": "test.this.js",
-  "directories": {
-    "doc": "docs",
-    "example": "example",
-    "test": "test"
+    "test": "echo \"no tests\" && exit 0"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/diffsky/scratch-github.git"
+    "url": "git://github.com/diffsky/scratch.git"
   },
-  "author": "",
+  "author": "Matthew Hadley (https://github.com/diffsky)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/diffsky/scratch-github/issues"
+    "url": "https://github.com/diffsky/scratch/issues"
   },
-  "homepage": "https://github.com/diffsky/scratch-github",
-  "devDependencies": {
-    "husky": "^0.4.3"
-  }
+  "homepage": "https://github.com/diffsky/scratch"
 }
