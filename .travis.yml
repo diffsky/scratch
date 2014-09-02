@@ -13,7 +13,7 @@ after_success:
   - git config user.name "duff-robot"
   - git config user.email "matthew.hadley+duff-robot@gmail.com"
   - git add .
-  - git commit "build gh-pages"
+  - git commit -m "build gh-pages"
   - git push --force --quiet "https://${GH_TOKEN}@${GH_REF}" master:gh-pages
 
 branches:
