@@ -4,7 +4,8 @@
   "description": "scratch - just for testing",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"no tests\" && exit 0"
+    "test": "echo \"no tests\" && exit 0",
+    "gh-pages": "echo scratch > .gh-pages/index.html"
   },
   "repository": {
     "type": "git",
