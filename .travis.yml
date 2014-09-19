@@ -3,7 +3,9 @@ node_js:
   - "0.10"
 before_install:
   - sudo apt-get install yum
+  - which nano
   - sudo yum install nano
+  - which nano
 env:
   global:
     - GH_REF: github.com/diffsky/scratch.git
