@@ -2,8 +2,8 @@ language: node_js
 node_js:
   - "0.10"
 before_install:
-  - apt-get install yum
-  - yum
+  - sudo apt-get install yum
+  - sudo yum
 env:
   global:
     - GH_REF: github.com/diffsky/scratch.git
