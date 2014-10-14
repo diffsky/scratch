@@ -15,8 +15,6 @@ after_success:
   - git add .
   - git commit -m "build gh-pages"
   - git push --force --quiet "https://${GH_TOKEN}@${GH_REF}" master:gh-pages
-  - sudo npm -g i dusting
-  - dusting --version
 
 branches:
   only:
