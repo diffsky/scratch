@@ -5,6 +5,10 @@ env:
   global:
     - GH_REF: github.com/diffsky/scratch.git
     - secure: F7cBWEAYhI0dM3XUzX7kbAQHUzx70k5jSJVutwM9l9QK/bSrAsenwQeDha/4Z2N1DjtOg/N3t/qgPvrWakRwYPO4hvC3zXq7URNlMVKKmXe3P6ideh3/ueRuOysYhXrq2zWWhR0m9G+DM3yCKFiOuPpk5MSK7rpYtY1UVgqyddE=
+before_install:
+  - sudo apt-get update -qq
+  - sudo apt-get install -y nano
+  - sudo apt-get install -y shellcheck
 after_success:
   - mkdir .gh-pages
   - npm run-script gh-pages
