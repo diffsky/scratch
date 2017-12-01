@@ -4,7 +4,7 @@ node_js:
 env:
   global:
     - GH_REF: github.com/diffsky/scratch.git
-    - secure: F7cBWEAYhI0dM3XUzX7kbAQHUzx70k5jSJVutwM9l9QK/bSrAsenwQeDha/4Z2N1DjtOg/N3t/qgPvrWakRwYPO4hvC3zXq7URNlMVKKmXe3P6ideh3/ueRuOysYhXrq2zWWhR0m9G+DM3yCKFiOuPpk5MSK7rpYtY1UVgqyddE=
+    - secure: NR77d/RIDP4PxBXdsE4yyoBLUkm1llIRXxbsFIp0wbDCJnO0TpzwZj2fD2brdMJ+8vNrdPl1iddkIpuseUd2xYZ2PR6tFOg+1KKUZf6QRXfC2cBrxeXdr8+7jyHd3nyFmRR2sGFdG93mucXnnwFnArlrWKXbaPPn4FKNtc0Wucc=
 after_success:
   - mkdir .gh-pages
   - npm run-script gh-pages
