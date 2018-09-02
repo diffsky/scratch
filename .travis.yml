@@ -3,7 +3,7 @@ node_js:
   - "8"
 env:
   global:
-    - GH_REF: github.com/diffsky/scratch.git
+    - GH_REF: github.com/matthewhadley/scratch.git
     - secure: NR77d/RIDP4PxBXdsE4yyoBLUkm1llIRXxbsFIp0wbDCJnO0TpzwZj2fD2brdMJ+8vNrdPl1iddkIpuseUd2xYZ2PR6tFOg+1KKUZf6QRXfC2cBrxeXdr8+7jyHd3nyFmRR2sGFdG93mucXnnwFnArlrWKXbaPPn4FKNtc0Wucc=
 after_success:
   - mkdir .gh-pages
