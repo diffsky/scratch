@@ -39,5 +39,5 @@ jobs:
         git add .
         ls -al
         git commit -m "testing build gh-pages"
-        echo ${GITHUB_REPOSITORY}
+        echo ${GITHUB_TOKEN}
         git push --force --quiet "https://${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" master:gh-pages
