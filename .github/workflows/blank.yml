@@ -30,6 +30,7 @@ jobs:
         ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
       run: |
         echo "update gh-pages"
+        ./build.sh
         mkdir -p www && cd www
         echo "scratch" > index.html
         git init
