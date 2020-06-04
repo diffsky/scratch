@@ -28,6 +28,9 @@ jobs:
     - name: Run a multi-line script
       run: |
         touch zzzzzzz
+        git init
+        git config user.name "matthewhadley"
+        git config user.email "matthew.hadley@gmail.com"
         git add .
         git commit -m "testing build gh-pages"
-        git push --force --quiet "https://${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" master:gh-pages
+        git push --force "https://${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" master:gh-pages
